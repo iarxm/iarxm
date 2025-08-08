@@ -1,7 +1,7 @@
-- Hi, I’m @zbyyt. I’m interested in predictive theories of consciousness, mathematics, choreography and surfing
-- I’m currently learning all sorts of things and looking to collaborate on multivarious projects
-- Including creating a future codified open source surf coaching methodology that everyone can contribute too through github.
-- How to reach me: future@iarom.org or through github.
+- Hi, I’m @iarxm. I’m interested in physics, predictive theories of consciousness, math, choreography and surf performance.
+- I’m currently learning many things and always interested in collaborating
+- Presently spending some time on a codified open source surf coaching and movement methodology, which anyone of interest can contribute towards, via gh
+- Reach out at mail@iarom.org or through gh
 
 <!---
 futuresurf/futuresurf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
