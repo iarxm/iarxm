@@ -4,7 +4,11 @@ aliases: []
 tags: []
 hide: footer
 layout: default
-title: Iarom
+title: Iarom Publications
 ---
 
-Hello
+See various publications under this subdomain
+
+[SurfingBodies](pub.iarom.org/sbod)
+[Principles Of The Construct](pub.iarom.org/csim)
+
