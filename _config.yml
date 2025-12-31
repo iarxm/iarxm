@@ -2,7 +2,7 @@ title: Iarom
 description: Github profile site
 url: https://iarxm.github.io
 repository: iarxm/iarxm
-base-url: iarxm
+base-url: /
 
 theme: jekyll-theme-minimal
 markdown: kramdown
